@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Roy!
+<br>Computer Science student with a passion for Cybersecurity
+</h1>
 
-<!--
-**Roy-Vega/Roy-Vega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🖧 Networking Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Virtual Laboratory - VMWare Workstation</b>
+  - [Network Services Lab with DMZ, LAN and WAN Setup](https://github.com/Roy-Vega/Networking/tree/main/Network%20Services%20Lab%20with%20DMZ%2C%20LAN%20and%20WAN%20Setup)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🖧 Active Directory Laboratory:</h2>
+
+- <b>Windows Server 2022 & Windows 11 - VMWare Workstation</b>
+  - [Lab Build](https://github.com/joshmadakor1/Sentinel-Lab)
+
+
+<h2></>👨‍💻 Coding Projects:</h2>
+
+- <b>Python</b>
+  - [Building a Port Scanner](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
