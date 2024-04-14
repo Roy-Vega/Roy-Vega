@@ -16,4 +16,4 @@
 <h2></>👨‍💻 Coding Projects:</h2>
 
 - <b>Python</b>
-  - [Building a Port Scanner](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building a Port Scanner](https://github.com/Roy-Vega/Coding/blob/main/Port%20Scanner/scanner.py)
