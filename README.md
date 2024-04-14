@@ -10,7 +10,7 @@
 <h2>🖧 Active Directory Laboratory:</h2>
 
 - <b>Windows Server 2022 & Windows 11 - VMWare Workstation</b>
-  - [Lab Build](https://github.com/Roy-Vega/Penetration-Testing/tree/main?tab=readme-ov-file#penetration-testing)
+  - [Lab Build](https://github.com/Roy-Vega/Penetration-Testing/blob/main/Active%20Directory%20Lab/README.md)
 
 
 <h2></>👨‍💻 Coding Projects:</h2>
