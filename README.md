@@ -4,8 +4,7 @@
 
 <h2>📝 Offensive Security Blog:</h2>
 
-- <b>Gitbook Blog</b>
-  - [Gitbook](https://roy-vega.gitbook.io/offsec-notes/)
+- <a href="https://roy-vega.gitbook.io/offsec-notes/" target="_blank"><b>GitBook Blog</b></a>
 
 <h2>🖧 Networking Projects:</h2>
 
