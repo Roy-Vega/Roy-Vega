@@ -1,5 +1,5 @@
 <h1>Hi, I'm Roy!
-<br>Jr. Cybersecurity Consultor & Pentester with a passion for Cybersecurity
+<br> Junior Cybersecurity Consultant | Pentester | Cybersecurity Enthusiast
 </h1>
 
 <h2>📝 Offensive Security Blog:</h2>
