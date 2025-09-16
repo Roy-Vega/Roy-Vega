@@ -1,5 +1,5 @@
 <h1>Hi, I'm Roy!
-<br>Computer Science student with a passion for Cybersecurity
+<br>Jr. Cybersecurity Consultor & Pentester with a passion for Cybersecurity
 </h1>
 
 <h2>📝 Offensive Security Blog:</h2>
