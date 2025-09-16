@@ -2,6 +2,11 @@
 <br>Computer Science student with a passion for Cybersecurity
 </h1>
 
+<h2>Offensive Security Blog:</h2>
+
+- <b>Gitbook Blog</b>
+  - [Gitbook](https://roy-vega.gitbook.io/offsec-notes/)
+
 <h2>🖧 Networking Projects:</h2>
 
 - <b>Virtual Laboratory - VMWare Workstation</b>
