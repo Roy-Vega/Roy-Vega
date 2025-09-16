@@ -2,7 +2,7 @@
 <br> Junior Cybersecurity Consultant | Pentester | Cybersecurity Enthusiast
 </h1>
 
-<h2>📝 Offensive Security Blog:</h2>
+<h2>📖 Offensive Security Blog:</h2>
 
 - <a href="https://roy-vega.gitbook.io/offsec-notes/" target="_blank"><b>GitBook Blog</b></a>
 
